@@ -1,0 +1,6 @@
+projectKey=Altomaizado
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=Altomaizado
+ceTaskId=1abde734-dfff-4a02-a3e5-4a66a602893e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=1abde734-dfff-4a02-a3e5-4a66a602893e
